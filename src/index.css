@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-base: #ecede1;
+  --color-mid: #a6b49b;
+  --color-full: #515d37;
+  --color-accent: #987bb6;
+}
+
+body {
+font-family: Outfit, sans-serif; 
+}
